@@ -1,5 +1,5 @@
 # FaceRecognition_In_RaspberryPi
-Author:YuHang Gong<759076276@qq.com>,Tong Yun<1325695163@qq.com>,Han Zhang<1714402938@qq.com>,Yan Wang  <dieqi317@gmail.com>,Zhen Bi <467665083@qq.com> <br>
+Author:[YuHang Gong](759076276@qq.com),[Tong Yun](1325695163@qq.com),[Han Zhang](1714402938@qq.com),[Yan Wang](dieqi317@gmail.com),[Zhen Bi] (467665083@qq.com) <br>
 Date: 2018 12 28 <br>
 ## Introduction
 The program use Raspberry Pi to recognize face and match faces in Database <br>
